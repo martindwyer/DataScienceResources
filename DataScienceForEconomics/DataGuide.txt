@@ -1,0 +1,15 @@
+datasets/CPIAUCNS.csv:
+Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+
+datasets/CPIAUCNS_PC1.csv:
+Percent change from one year prior in CPIAUCNS
+
+
+datasets/INDPRO.csv
+
+
+datasets/PAYEMS.csv
+
+datasets/TB3MS.csv
+
+datasets/UNRATE.csv
