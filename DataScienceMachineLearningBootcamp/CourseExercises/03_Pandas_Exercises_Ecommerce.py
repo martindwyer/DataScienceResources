@@ -3,8 +3,7 @@ import pandas as pd
 """
 1.  import the data 
 """
-
-ecom = pd.read_csv('./ecommerce_purchases/purchases.csv')
+ecom = pd.read_csv('CourseExercises/datasets/ecommerce_purchases/purchases.csv')
 
 """
 2. Check the head of the DataFrame

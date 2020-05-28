@@ -11,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-train = pd.read_csv('CourseExercises/titanic/train.csv')
+train = pd.read_csv('CourseExercises/datasets/titanic/train.csv')
 
 print(train.head())
 train.info()

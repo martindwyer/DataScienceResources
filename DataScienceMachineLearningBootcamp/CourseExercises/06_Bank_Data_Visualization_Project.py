@@ -2,13 +2,7 @@ import matplotlib.pyplot as plt
 import pandas_datareader.data as pdr
 import yfinance as yf
 import pandas as pd
-import numpy as np
-import datetime
 import seaborn as sns
-import plotly
-import cufflinks as cf
-import plotly.express as px
-import plotly.graph_objects as go
 
 #  Preparing the bank stock database using Yahoo Finance
 

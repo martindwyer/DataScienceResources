@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-loans = pd.read_csv('CourseExercises/loan-data/loan_data.csv')
+loans = pd.read_csv('CourseExercises/datasets/loan-data/loan_data.csv')
 
 
 loans.info()

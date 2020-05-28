@@ -38,7 +38,7 @@ import plotly.express as px
 # ## Get the Data
 # **Read in the advertising.csv file and set it to a data frame called ad_data.**
 
-ad_data = pd.read_csv('CourseExercises/advertising-data/advertising.csv')
+ad_data = pd.read_csv('CourseExercises/datasets/advertising-data/advertising.csv')
 
 
 ad_data['Clicked'] = ad_data['Clicked on Ad'].apply(lambda x: 'True' if x == 1 else 'False')

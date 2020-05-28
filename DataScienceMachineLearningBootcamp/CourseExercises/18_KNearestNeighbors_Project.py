@@ -27,7 +27,7 @@ from sklearn.metrics import classification_report,confusion_matrix
 # ** Read the 'KNN_Project_Data csv file into a dataframe **
 
 
-df = pd.read_csv('CourseExercises/KNN-Data/KNN_Project_Data')
+df = pd.read_csv('CourseExercises/datasets/KNN-Data/KNN_Project_Data')
 
 
 # **Check the head of the dataframe.**

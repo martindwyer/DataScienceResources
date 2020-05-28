@@ -27,7 +27,7 @@ from sklearn.metrics import classification_report,confusion_matrix
 # 
 # Set index_col=0 to use the first column as the index.
 
-df = pd.read_csv("CourseExercises/classified-data/Classified Data",index_col=0)
+df = pd.read_csv("CourseExercises/datasets/classified-data/Classified Data",index_col=0)
 
 
 print(df.head())

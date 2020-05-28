@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # get dataset
-df = pd.read_csv('CourseExercises/housing-data/USA_Housing.csv')
+df = pd.read_csv('CourseExercises/datasets/housing-data/USA_Housing.csv')
 
 
 # print descriptive information about the dataset
