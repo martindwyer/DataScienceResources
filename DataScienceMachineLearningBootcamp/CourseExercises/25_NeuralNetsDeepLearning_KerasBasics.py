@@ -20,7 +20,7 @@
 import pandas as pd
 
 
-df = pd.read_csv('CourseExercises/datasets/deep-learning/fake_reg.csv')
+df = pd.read_csv('./CourseExercises/datasets/deep-learning/fake_reg.csv')
 
 
 print(df.head())

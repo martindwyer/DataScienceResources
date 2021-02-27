@@ -15,6 +15,7 @@ Where class indicates whether or not a Bank Note was authentic.
 This sort of task is perfectly suited for Neural Networks and Deep Learning! Just follow the instructions below to get started!
 """
 
+import os
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -34,7 +35,10 @@ from sklearn.ensemble import RandomForestClassifier
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
-data = pd.read_csv('datasets/bank_note_data/bank_note_data.csv')
+dir_path = os.path.dirname(__file__)
+file_path = os.path.join(dir_path,'datasets/bank_note_data/bank_note_data.csv',)
+
+data = pd.read_csv(file_path)
 
 print(data.head())
 
