@@ -4,10 +4,10 @@ from sklearn.metrics import classification_report
 
 def logistic_regression(train):
 
-    X = train[['Fare','na']]
+    X = train[['Pclass','Age','mr','Fare']]
     y = train['Survived']
 
-    X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.30,
+    X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.20,
         random_state=101)
 
     logistic_model = LogisticRegression(max_iter=1000)
@@ -16,5 +16,6 @@ def logistic_regression(train):
 
     predictions = logistic_model.predict(X_test)
 
+    print("Performance of Logistic Regression")
     print(classification_report(y_test, predictions))
 

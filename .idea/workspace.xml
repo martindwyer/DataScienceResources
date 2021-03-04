@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="809e519c-c51e-4014-801c-e3b743cb84b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Titanic/deep_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Titanic/torch_tutorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/.idea/DataScienceMachineLearningBootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/.idea/DataScienceMachineLearningBootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/CourseExercises/25_DeepLearning_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/CourseExercises/25_DeepLearning_Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/01-Tensorflow Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/01-Tensorflow Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/00-Keras-Syntax-Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/00-Keras-Syntax-Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/01-Keras-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/01-Keras-Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/02-Keras-Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/02-Keras-Classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/03-Keras-Project-Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/03-Keras-Project-Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/05-Tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/05-Tensorboard.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/JupyterNotebooks/22-Deep Learning/TensorFlow_FILES/ANNs/my_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/05-ANN-Artificial-Neural-Networks.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Bias Variance Trade-Off.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to K Means Clustering.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to K Nearest Neighbors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to Logistic Regression.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to Machine Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to Natural Language Processing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to Neural Nets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Intro to Tree Methods.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Principal Component Analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/Python DS Presentations/Python - Intro to Linear Regression.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/.idea/Titanic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/.idea/Titanic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/chart_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/chart_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/logistic_regression.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pCrnq7Kr7W1HN9pdAYGTKQ4zmS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Titanic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="25_DeepLearning_Project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceResources" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/CourseExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/CourseExercises/25_DeepLearning_Project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.25_DeepLearning_Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809e519c-c51e-4014-801c-e3b743cb84b4" name="Default Changelist" comment="" />
+      <created>1614698086982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614698086982</updated>
+      <workItem from="1614698089519" duration="29000" />
+      <workItem from="1614714299406" duration="1731000" />
+      <workItem from="1614785838011" duration="1629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataScienceResources$25_DeepLearning_Project.coverage" NAME="25_DeepLearning_Project Coverage Results" MODIFIED="1614786064184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScienceMachineLearningBootcamp/CourseExercises" />
+  </component>
+</project>

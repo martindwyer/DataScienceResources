@@ -104,7 +104,7 @@ classifier = tf.estimator.DNNClassifier(hidden_units=[10, 20, 10], n_classes=2,f
 
 ## Now create a tf.estimator.pandas_input_fn that takes in your X_train, y_train, batch_size and set shuffle=True. You can play around with the batch_size parameter if you want, but let's start by setting it to 20 since our data isn't very big. **
 
-input_func = tf.estimator.inputs.pandas_input_fn(x=X_train,y=y_train,batch_size=20,shuffle=True)
+input_func = tf.compat.v1.estimator.inputs.pandas_input_fn(x=X_train,y=y_train,batch_size=20,shuffle=True)
 
 ## Now train classifier to the input function. Use steps=500. You can play around with these values if you want!**
 
@@ -116,7 +116,7 @@ classifier.train(input_fn=input_func,steps=500)
 
 ## Create another pandas_input_fn that takes in the X_test data for x. Remember this one won't need any y_test info since we will be using this for the network to create its own predictions. Set shuffle=False since we don't need to shuffle for predictions.**
 
-pred_fn = tf.estimator.inputs.pandas_input_fn(x=X_test,batch_size=len(X_test),shuffle=False)
+pred_fn = tf.compat.v1.estimator.inputs.pandas_input_fn(x=X_test,batch_size=len(X_test),shuffle=False)
 
 ## Use the predict method from the classifier model to create predictions from X_test **
 
